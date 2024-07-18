@@ -5,8 +5,14 @@ Module Main
     Sub Main()
 
         Dim userA As New Btcservice
-        Dim apiobj As New Apiget
+        'Dim apiobj As New Apiget
         Dim response As String
+
+        'Dim f1 As New Form1
+
+        'f1.Show()
+
+
 
         ' Getting wallet info
         Console.Write("Wallet info request - insert bitcoin wallet address: ")

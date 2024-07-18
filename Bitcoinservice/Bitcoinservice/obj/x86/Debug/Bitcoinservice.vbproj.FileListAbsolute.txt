@@ -6,3 +6,12 @@ C:\Users\user\Documents\Visual Studio 2010\Projects\Bitcoinservice\Bitcoinservic
 C:\Users\user\Documents\Visual Studio 2010\Projects\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.exe
 C:\Users\user\Documents\Visual Studio 2010\Projects\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.xml
 C:\Users\user\Documents\Visual Studio 2010\Projects\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.exe
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.xml
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\bin\Debug\Bitcoinservice.exe
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\bin\Debug\Bitcoinservice.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\bin\Debug\Bitcoinservice.xml
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\Bitcoinservice.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\cryptowork00\Bitcoinservice\Bitcoinservice\obj\x86\Debug\ConsoleApplication1.Form1.resources

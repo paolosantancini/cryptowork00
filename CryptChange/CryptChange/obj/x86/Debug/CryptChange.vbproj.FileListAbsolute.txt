@@ -6,3 +6,11 @@ C:\Users\user\Documents\Visual Studio 2010\Projects\CryptChange\CryptChange\bin\
 C:\Users\user\Documents\Visual Studio 2010\Projects\CryptChange\CryptChange\obj\x86\Debug\CryptChange.exe
 C:\Users\user\Documents\Visual Studio 2010\Projects\CryptChange\CryptChange\obj\x86\Debug\CryptChange.xml
 C:\Users\user\Documents\Visual Studio 2010\Projects\CryptChange\CryptChange\obj\x86\Debug\CryptChange.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\obj\x86\Debug\CryptChange.exe
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\obj\x86\Debug\CryptChange.xml
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\obj\x86\Debug\CryptChange.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\bin\Debug\CryptChange.exe
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\bin\Debug\CryptChange.pdb
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\bin\Debug\CryptChange.xml
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\user\Documents\GitHub\cryptowork00\CryptChange\CryptChange\obj\x86\Debug\CryptChange.vbproj.GenerateResource.Cache
